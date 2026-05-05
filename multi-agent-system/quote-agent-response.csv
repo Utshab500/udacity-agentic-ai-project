@@ -1,0 +1,941 @@
+timestamp,request_id,request_date,quote
+2026-05-04T23:26:05.400635,1,2025-04-01,"{
+  ""as_of_date"": ""2025-04-01"",
+  ""items"": [
+    {
+      ""original_name"": ""200 sheets of A4 glossy paper"",
+      ""requested_item"": ""Glossy paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 200,
+      ""stock_quantity"": 587,
+      ""deliverable_quantity"": 200,
+      ""shortage_quantity"": 0,
+      ""status"": ""ok"",
+      ""pricing_method"": ""bulk_discount"",
+      ""historical_avg_price"": null,
+      ""discount_pct"": 5,
+      ""quote_status"": ""quoted""
+    },
+    {
+      ""original_name"": ""100 sheets of heavy cardstock (white)"",
+      ""requested_item"": ""Cardstock"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 100,
+      ""stock_quantity"": 595,
+      ""deliverable_quantity"": 100,
+      ""shortage_quantity"": 0,
+      ""status"": ""ok"",
+      ""pricing_method"": ""bulk_discount"",
+      ""historical_avg_price"": null,
+      ""discount_pct"": 5,
+      ""quote_status"": ""quoted""
+    },
+    {
+      ""original_name"": ""100 sheets of colored paper (assorted colors)"",
+      ""requested_item"": ""Colored paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 100,
+      ""stock_quantity"": 788,
+      ""deliverable_quantity"": 100,
+      ""shortage_quantity"": 0,
+      ""status"": ""ok"",
+      ""pricing_method"": ""bulk_discount"",
+      ""historical_avg_price"": null,
+      ""discount_pct"": 5,
+      ""quote_status"": ""quoted""
+    }
+  ]
+}"
+2026-05-04T23:27:49.966550,2,2025-04-03,"{
+  ""as_of_date"": ""2025-04-03"",
+  ""items"": [
+    {
+      ""original_name"": ""500 sheets of colorful poster paper"",
+      ""requested_item"": ""Poster paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 500,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""300 roll of streamers"",
+      ""requested_item"": ""Party streamers"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 300,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 300,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""200 balloons"",
+      ""requested_item"": ""unresolved"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 200,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 200,
+      ""status"": ""unresolved_item"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_unresolved""
+    }
+  ]
+}"
+2026-05-04T23:29:36.479083,3,2025-04-04,"{
+  ""as_of_date"": ""2025-04-04"",
+  ""items"": [
+    {
+      ""original_name"": ""10,000 sheets of A4 paper"",
+      ""requested_item"": ""A4 paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 10000,
+      ""stock_quantity"": 272,
+      ""deliverable_quantity"": 272,
+      ""shortage_quantity"": 9728,
+      ""status"": ""ok"",
+      ""pricing_method"": ""bulk_discount"",
+      ""historical_avg_price"": null,
+      ""discount_pct"": 5,
+      ""quote_status"": ""quoted""
+    },
+    {
+      ""original_name"": ""5000 sheets of A3 paper"",
+      ""requested_item"": ""unresolved"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 5000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 5000,
+      ""status"": ""unresolved_item"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_unresolved""
+    },
+    {
+      ""original_name"": ""500 reams of printer paper"",
+      ""requested_item"": ""Standard copy paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 500,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    }
+  ]
+}"
+2026-05-04T23:31:56.323819,4,2025-04-05,"{
+  ""as_of_date"": ""2025-04-05"",
+  ""items"": [
+    {
+      ""original_name"": ""500 sheets of high-quality, recycled cardstock"",
+      ""requested_item"": ""Cardstock"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 495,
+      ""deliverable_quantity"": 495,
+      ""shortage_quantity"": 5,
+      ""status"": ""ok"",
+      ""pricing_method"": ""bulk_discount"",
+      ""historical_avg_price"": null,
+      ""discount_pct"": 5,
+      ""quote_status"": ""quoted""
+    },
+    {
+      ""original_name"": ""250 sheets of A4 size printer paper"",
+      ""requested_item"": ""A4 paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 250,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 250,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    }
+  ]
+}"
+2026-05-04T23:33:24.395138,5,2025-04-05,"{
+  ""as_of_date"": ""2025-04-05"",
+  ""items"": [
+    {
+      ""original_name"": ""500 sheets of 8.5\""x11\"" colored paper"",
+      ""requested_item"": ""Colored paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 688,
+      ""deliverable_quantity"": 500,
+      ""shortage_quantity"": 0,
+      ""status"": ""ok"",
+      ""pricing_method"": ""bulk_discount"",
+      ""historical_avg_price"": null,
+      ""discount_pct"": 10,
+      ""quote_status"": ""quoted""
+    },
+    {
+      ""original_name"": ""300 sheets of cardstock in various colors"",
+      ""requested_item"": ""Cardstock"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 300,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 300,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""200 rolls of decorative washi tape"",
+      ""requested_item"": ""Decorative adhesive tape (washi tape)"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 200,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 200,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    }
+  ]
+}"
+2026-05-04T23:35:27.989320,6,2025-04-06,"{
+  ""as_of_date"": ""2025-04-06"",
+  ""items"": [
+    {
+      ""original_name"": ""500 sheets of colorful construction paper"",
+      ""requested_item"": ""Construction paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 500,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""300 sheets of white printer paper"",
+      ""requested_item"": ""Standard copy paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 300,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 300,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""200 sheets of cardstock in various colors"",
+      ""requested_item"": ""Cardstock"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 200,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 200,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    }
+  ]
+}"
+2026-05-04T23:36:28.810475,7,2025-04-07,"{
+  ""as_of_date"": ""2025-04-07"",
+  ""items"": [
+    {
+      ""original_name"": ""500 sheets of glossy A4 paper"",
+      ""requested_item"": ""Glossy paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 387,
+      ""deliverable_quantity"": 387,
+      ""shortage_quantity"": 113,
+      ""status"": ""ok"",
+      ""pricing_method"": ""bulk_discount"",
+      ""historical_avg_price"": null,
+      ""discount_pct"": 5,
+      ""quote_status"": ""quoted""
+    },
+    {
+      ""original_name"": ""1000 sheets of matte A3 paper"",
+      ""requested_item"": ""Matte paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 1000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 1000,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""300 poster boards (24' x 36')"",
+      ""requested_item"": ""unresolved"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 300,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 300,
+      ""status"": ""unresolved_item"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_unresolved""
+    },
+    {
+      ""original_name"": ""200 sheets of heavyweight cardstock"",
+      ""requested_item"": ""Cardstock"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 200,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 200,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    }
+  ]
+}"
+2026-05-04T23:38:05.722593,8,2025-04-07,"{
+  ""as_of_date"": ""2025-04-07"",
+  ""items"": [
+    {
+      ""original_name"": ""500 sheets of A4 glossy paper"",
+      ""requested_item"": ""Glossy paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 500,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""1000 sheets of A4 matte paper"",
+      ""requested_item"": ""Matte paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 1000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 1000,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""2000 sheets of A5 colored paper"",
+      ""requested_item"": ""unresolved"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 2000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 2000,
+      ""status"": ""unresolved_item"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_unresolved""
+    },
+    {
+      ""original_name"": ""3000 sheets of A4 recycled paper"",
+      ""requested_item"": ""Recycled paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 3000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 3000,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    }
+  ]
+}"
+2026-05-04T23:39:45.785146,9,2025-04-07,"{
+  ""as_of_date"": ""2025-04-07"",
+  ""items"": [
+    {
+      ""original_name"": ""200 sheets of A4 white printer paper"",
+      ""requested_item"": ""A4 paper"",
+      ""delivery_deadline"": ""2025-04-10"",
+      ""requested_quantity"": 200,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 200,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""100 sheets of A3 glossy paper"",
+      ""requested_item"": ""Glossy paper"",
+      ""delivery_deadline"": ""2025-04-10"",
+      ""requested_quantity"": 100,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 100,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""50 packets of 100% recycled kraft paper envelopes"",
+      ""requested_item"": ""Kraft paper"",
+      ""delivery_deadline"": ""2025-04-10"",
+      ""requested_quantity"": 50,
+      ""stock_quantity"": 493,
+      ""deliverable_quantity"": 50,
+      ""shortage_quantity"": 0,
+      ""status"": ""ok"",
+      ""pricing_method"": ""bulk_discount"",
+      ""historical_avg_price"": null,
+      ""discount_pct"": 0,
+      ""quote_status"": ""quoted""
+    }
+  ]
+}"
+2026-05-04T23:42:05.992358,10,2025-04-08,"{
+  ""as_of_date"": ""2025-04-08"",
+  ""items"": [
+    {
+      ""original_name"": ""500 sheets of A4 printing paper"",
+      ""requested_item"": ""A4 paper"",
+      ""delivery_deadline"": ""2025-04-10"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 500,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""200 sheets of cardstock"",
+      ""requested_item"": ""Cardstock"",
+      ""delivery_deadline"": ""2025-04-10"",
+      ""requested_quantity"": 200,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 200,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    }
+  ]
+}"
+2026-05-04T23:43:41.930232,11,2025-04-08,"{
+  ""as_of_date"": ""2025-04-08"",
+  ""items"": [
+    {
+      ""original_name"": ""200 sheets of colorful cardstock"",
+      ""requested_item"": ""Cardstock"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 200,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 200,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""500 sheets of standard printer paper"",
+      ""requested_item"": ""Standard copy paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 500,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""100 paper napkins"",
+      ""requested_item"": ""Paper napkins"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 100,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 100,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    }
+  ]
+}"
+2026-05-04T23:45:43.103415,12,2025-04-08,"{
+  ""as_of_date"": ""2025-04-08"",
+  ""items"": [
+    {
+      ""original_name"": ""500 sheets of high-quality glossy paper"",
+      ""requested_item"": ""Glossy paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 500,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""300 sheets of sturdy cardstock"",
+      ""requested_item"": ""Cardstock"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 300,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 300,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    }
+  ]
+}"
+2026-05-04T23:46:59.737923,13,2025-04-08,"{
+  ""as_of_date"": ""2025-04-08"",
+  ""items"": [
+    {
+      ""original_name"": ""500 sheets of A3 glossy paper"",
+      ""requested_item"": ""Glossy paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 500,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""300 sheets of A4 matte paper"",
+      ""requested_item"": ""Matte paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 300,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 300,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    }
+  ]
+}"
+2026-05-04T23:48:50.696503,14,2025-04-09,"{
+  ""as_of_date"": ""2025-04-09"",
+  ""items"": [
+    {
+      ""original_name"": ""5000 sheets of A4 paper"",
+      ""requested_item"": ""A4 paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 5000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 5000,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""2000 sheets of poster paper in various colors"",
+      ""requested_item"": ""Poster paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 2000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 2000,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""500 sheets of cardstock"",
+      ""requested_item"": ""Cardstock"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 500,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    }
+  ]
+}"
+2026-05-04T23:51:06.549166,15,2025-04-12,"{
+  ""as_of_date"": ""2025-04-12"",
+  ""items"": [
+    {
+      ""original_name"": ""10,000 sheets of A4 white paper"",
+      ""requested_item"": ""A4 paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 10000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 10000,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""5,000 sheets of A3 colored paper (assorted colors)"",
+      ""requested_item"": ""Colored paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 5000,
+      ""stock_quantity"": 188,
+      ""deliverable_quantity"": 188,
+      ""shortage_quantity"": 4812,
+      ""status"": ""ok"",
+      ""pricing_method"": ""historical_avg"",
+      ""historical_avg_price"": 0.0925,
+      ""discount_pct"": null,
+      ""quote_status"": ""quoted""
+    },
+    {
+      ""original_name"": ""500 reams of cardboard for signage"",
+      ""requested_item"": ""unresolved"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 500,
+      ""status"": ""unresolved_item"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_unresolved""
+    }
+  ]
+}"
+2026-05-04T23:52:30.282443,16,2025-04-13,"{
+  ""as_of_date"": ""2025-04-13"",
+  ""items"": [
+    {
+      ""original_name"": ""500 sheets of A4 printer paper"",
+      ""requested_item"": ""A4 paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 500,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""200 sheets of colorful construction paper"",
+      ""requested_item"": ""Colored paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 200,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 200,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""100 sheets of poster board"",
+      ""requested_item"": ""Large poster paper (24x36 inches)"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 100,
+      ""stock_quantity"": 699,
+      ""deliverable_quantity"": 100,
+      ""shortage_quantity"": 0,
+      ""status"": ""ok"",
+      ""pricing_method"": ""bulk_discount"",
+      ""historical_avg_price"": null,
+      ""discount_pct"": 5,
+      ""quote_status"": ""quoted""
+    }
+  ]
+}"
+2026-05-04T23:54:39.572902,17,2025-04-14,"{
+  ""as_of_date"": ""2025-04-14"",
+  ""items"": [
+    {
+      ""original_name"": ""1000 sheets of A4 white printer paper"",
+      ""requested_item"": ""A4 paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 1000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 1000,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""500 sheets of A3 colored paper (assorted colors)"",
+      ""requested_item"": ""Colored paper"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 500,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""2000 table napkins (white)"",
+      ""requested_item"": ""Paper napkins"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 2000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 2000,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""1000 paper cups (biodegradable)"",
+      ""requested_item"": ""Paper cups"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 1000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 1000,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""500 paper plates (biodegradable)"",
+      ""requested_item"": ""Paper plates"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 748,
+      ""deliverable_quantity"": 500,
+      ""shortage_quantity"": 0,
+      ""status"": ""ok"",
+      ""pricing_method"": ""bulk_discount"",
+      ""historical_avg_price"": null,
+      ""discount_pct"": 10,
+      ""quote_status"": ""quoted""
+    }
+  ]
+}"
+2026-05-04T23:57:48.107487,18,2025-04-14,"{
+  ""as_of_date"": ""2025-04-14"",
+  ""items"": [
+    {
+      ""original_name"": ""500 sheets of high-quality white cardstock"",
+      ""requested_item"": ""unresolved"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 500,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 500,
+      ""status"": ""unresolved_item"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_unresolved""
+    },
+    {
+      ""original_name"": ""1000 sheets of standard printing paper"",
+      ""requested_item"": ""unresolved"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 1000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 1000,
+      ""status"": ""unresolved_item"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_unresolved""
+    },
+    {
+      ""original_name"": ""200 sheets of colored paper in assorted colors"",
+      ""requested_item"": ""unresolved"",
+      ""delivery_deadline"": ""2025-04-15"",
+      ""requested_quantity"": 200,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 200,
+      ""status"": ""unresolved_item"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_unresolved""
+    }
+  ]
+}"
+2026-05-04T23:58:47.547816,19,2025-04-15,"{
+  ""as_of_date"": ""2025-04-15"",
+  ""items"": [
+    {
+      ""original_name"": ""2000 sheets of A4 glossy paper"",
+      ""requested_item"": ""Glossy paper"",
+      ""delivery_deadline"": ""2025-04-20"",
+      ""requested_quantity"": 2000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 2000,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""1500 sheets of A3 matte paper"",
+      ""requested_item"": ""Matte paper"",
+      ""delivery_deadline"": ""2025-04-20"",
+      ""requested_quantity"": 1500,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 1500,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""1000 sheets of cardstock in assorted colors"",
+      ""requested_item"": ""Cardstock"",
+      ""delivery_deadline"": ""2025-04-20"",
+      ""requested_quantity"": 1000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 1000,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    }
+  ]
+}"
+2026-05-05T00:00:00.505771,20,2025-04-17,"{
+  ""as_of_date"": ""2025-04-17"",
+  ""items"": [
+    {
+      ""original_name"": ""5,000 flyers"",
+      ""requested_item"": ""Flyers"",
+      ""delivery_deadline"": ""2025-05-15"",
+      ""requested_quantity"": 5000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 5000,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""2,000 posters"",
+      ""requested_item"": ""Poster paper"",
+      ""delivery_deadline"": ""2025-05-15"",
+      ""requested_quantity"": 2000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 2000,
+      ""status"": ""ok"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_no_stock""
+    },
+    {
+      ""original_name"": ""10,000 tickets"",
+      ""requested_item"": ""unresolved"",
+      ""delivery_deadline"": ""2025-05-15"",
+      ""requested_quantity"": 10000,
+      ""stock_quantity"": 0,
+      ""deliverable_quantity"": 0,
+      ""shortage_quantity"": 10000,
+      ""status"": ""unresolved_item"",
+      ""pricing_method"": null,
+      ""historical_avg_price"": null,
+      ""discount_pct"": null,
+      ""quote_status"": ""skipped_unresolved""
+    }
+  ]
+}"

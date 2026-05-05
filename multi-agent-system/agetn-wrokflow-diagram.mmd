@@ -1,0 +1,73 @@
+flowchart TB
+    %% ─── Entry ───
+    Customer([Customer Request]):::input
+
+    %% ─── Orchestrator ───
+    Orchestrator[Orchestrator Agent]:::agent
+
+    %% ─── Database (shared, right-side) ───
+    DB[("SQLite ledger<br/>transactions, stock, cash")]:::db
+
+    %% ─── Stage 1: Intent ───
+    Intent[Intent Classifier Agent]:::agent
+    CatalogTool((Get Product<br/>Catalog Tool)):::tool
+
+    %% ─── Stage 2: Inventory ───
+    Inventory[Inventory Agent]:::agent
+    InventoryTool((Check Inventory<br/>For Item Tool)):::tool
+
+    %% ─── Stage 3: Quoting ───
+    Quoting[Quoting Agent]:::agent
+    QuoteTool((Compute Quote<br/>For Item Tool)):::tool
+
+    %% ─── Stage 4: Ordering ───
+    Ordering[Ordering Agent]:::agent
+    OrderTool((Process Order<br/>For Item Tool)):::tool
+
+    %% ─── Post-processing ───
+    Verifier[/"Verification Layer<br/>deterministic, sole DB writer"/]:::verifier
+    Finalizer((Finalizer Tool)):::final
+    Audit((Audit Logger)):::final
+
+    %% ─── Outputs ───
+    TestResults[(test_results.csv)]:::output
+    StageCSVs[(4 stage audit CSVs)]:::output
+
+    %% ─── Flows ───
+    Customer ==>|"raw request"| Orchestrator
+
+    Orchestrator -->|"1.classify"| Intent
+    Intent -->|"items + deadline"| Orchestrator
+
+    Orchestrator -->|"2.check stock"| Inventory
+    Inventory -->|"stock + shortage"| Orchestrator
+
+    Orchestrator -->|"3.get quote"| Quoting
+    Quoting -->|"discount or hist avg"| Orchestrator
+
+    Orchestrator -->|"4.fulfill order"| Ordering
+    Ordering -->|"fulfillment plan"| Orchestrator
+
+    Intent --> CatalogTool
+    Inventory --> InventoryTool
+    Quoting --> QuoteTool
+    Ordering --> OrderTool
+
+    InventoryTool -.->|"read"| DB
+    QuoteTool -.->|"read sales"| DB
+
+    Orchestrator ==>|"5.verify"| Verifier
+    Verifier ==>|"commit"| DB
+    Verifier --> Finalizer
+    Verifier --> Audit
+    Finalizer --> TestResults
+    Audit --> StageCSVs
+
+    %% ─── Styling ───
+    classDef agent fill:#1e3a5f,stroke:#5b8def,stroke-width:1.5px,color:#ffffff
+    classDef tool fill:#2d4a3e,stroke:#5dcaa5,stroke-width:1.5px,color:#ffffff
+    classDef verifier fill:#5a2d2d,stroke:#e08585,stroke-width:1.5px,color:#ffffff
+    classDef final fill:#4a3a1e,stroke:#efb069,stroke-width:1.5px,color:#ffffff
+    classDef db fill:#3d2d4a,stroke:#b08adb,stroke-width:1.5px,color:#ffffff
+    classDef input fill:#2a2a2a,stroke:#888888,stroke-width:1.5px,color:#ffffff
+    classDef output fill:#2a2a2a,stroke:#888888,stroke-width:1.5px,color:#ffffff

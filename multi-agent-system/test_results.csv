@@ -1,0 +1,343 @@
+request_id,request_date,job,event,cash_balance,inventory_value,response
+1,2025-04-01,office manager,ceremony,45121.45,4875.3,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 200 sheets of A4 glossy paper — fulfilled 200 units of Glossy paper from existing stock. Subtotal: $38.00 — 5% bulk discount applied (you save $2.00)
+  • 100 sheets of heavy cardstock (white) — fulfilled 100 units of Cardstock from existing stock. Subtotal: $14.25 — 5% bulk discount applied (you save $0.75)
+  • 100 sheets of colored paper (assorted colors) — fulfilled 100 units of Colored paper from existing stock. Subtotal: $9.50 — 5% bulk discount applied (you save $0.50)
+
+Order Total: $61.75
+Total Savings: $3.25 (5.0% off catalog price)
+Requested Delivery Deadline: 2025-04-15
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+2,2025-04-03,hotel manager,parade,45121.45,4875.3,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 500 sheets of colorful poster paper — fulfilled 500 units of Poster paper via restock arriving 2025-04-07. Subtotal: $125.00
+  • 300 roll of streamers — fulfilled 300 units of Party streamers via restock arriving 2025-04-07. Subtotal: $15.00
+
+We could not match the following items to our product catalog. Please contact us if you believe this is an error:
+  • 200 balloons
+
+Order Total: $140.00
+Requested Delivery Deadline: 2025-04-15
+Restock Arrival (latest): 2025-04-07
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+3,2025-04-04,school board resouorce manager,conference,45134.369999999995,4861.7,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 10,000 sheets of A4 paper — fulfilled 10000 units of A4 paper (272 from existing stock, 9728 via restock arriving 2025-04-11). Subtotal: $475.00 — 5% bulk discount applied (you save $25.00)
+  • 500 reams of printer paper — fulfilled 500 units of Standard copy paper via restock arriving 2025-04-08. Subtotal: $20.00
+
+We could not match the following items to our product catalog. Please contact us if you believe this is an error:
+  • 5000 sheets of A3 paper
+
+Order Total: $495.00
+Total Savings: $25.00 (4.8% off catalog price)
+Requested Delivery Deadline: 2025-04-15
+Restock Arrival (latest): 2025-04-11
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+4,2025-04-05,non-profit director,reception,45205.244999999995,4787.45,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 500 sheets of high-quality, recycled cardstock — fulfilled 500 units of Cardstock (495 from existing stock, 5 via restock arriving 2025-04-05). Subtotal: $71.25 — 5% bulk discount applied (you save $3.75)
+  • 250 sheets of A4 size printer paper — fulfilled 250 units of A4 paper via restock arriving 2025-04-09. Subtotal: $12.50
+
+Order Total: $83.75
+Total Savings: $3.75 (4.3% off catalog price)
+Requested Delivery Deadline: 2025-04-15
+Restock Arrival (latest): 2025-04-09
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+5,2025-04-05,school teacher,party,45250.244999999995,4737.45,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 500 sheets of 8.5""x11"" colored paper — fulfilled 500 units of Colored paper from existing stock. Subtotal: $45.00 — 10% bulk discount applied (you save $5.00)
+  • 300 sheets of cardstock in various colors — fulfilled 300 units of Cardstock via restock arriving 2025-04-09. Subtotal: $45.00
+  • 200 rolls of decorative washi tape — fulfilled 200 units of Decorative adhesive tape (washi tape) via restock arriving 2025-04-09. Subtotal: $40.00
+
+Order Total: $130.00
+Total Savings: $5.00 (3.7% off catalog price)
+Requested Delivery Deadline: 2025-04-15
+Restock Arrival (latest): 2025-04-09
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+6,2025-04-06,school teacher,assembly,45250.244999999995,4737.45,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 500 sheets of colorful construction paper — fulfilled 500 units of Construction paper via restock arriving 2025-04-10. Subtotal: $35.00
+  • 300 sheets of white printer paper — fulfilled 300 units of Standard copy paper via restock arriving 2025-04-10. Subtotal: $12.00
+  • 200 sheets of cardstock in various colors — fulfilled 200 units of Cardstock via restock arriving 2025-04-10. Subtotal: $30.00
+
+Order Total: $77.00
+Requested Delivery Deadline: 2025-04-15
+Restock Arrival (latest): 2025-04-10
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+7,2025-04-07,business owner,exhibition,45393.774999999994,4660.049999999999,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 500 sheets of glossy A4 paper — fulfilled 500 units of Glossy paper (387 from existing stock, 113 via restock arriving 2025-04-11). Subtotal: $95.00 — 5% bulk discount applied (you save $5.00)
+  • 1000 sheets of matte A3 paper — fulfilled 1000 units of Matte paper via restock arriving 2025-04-11. Subtotal: $180.00
+  • 200 sheets of heavyweight cardstock — fulfilled 200 units of Cardstock via restock arriving 2025-04-11. Subtotal: $30.00
+
+We could not match the following items to our product catalog. Please contact us if you believe this is an error:
+  • 300 poster boards (24' x 36')
+
+Order Total: $305.00
+Total Savings: $5.00 (1.6% off catalog price)
+Requested Delivery Deadline: 2025-04-15
+Restock Arrival (latest): 2025-04-11
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+8,2025-04-07,school board resouorce manager,ceremony,45393.774999999994,4660.049999999999,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 500 sheets of A4 glossy paper — fulfilled 500 units of Glossy paper via restock arriving 2025-04-11. Subtotal: $100.00
+  • 1000 sheets of A4 matte paper — fulfilled 1000 units of Matte paper via restock arriving 2025-04-11. Subtotal: $180.00
+  • 3000 sheets of A4 recycled paper — fulfilled 3000 units of Recycled paper via restock arriving 2025-04-14. Subtotal: $240.00
+
+We could not match the following items to our product catalog. Please contact us if you believe this is an error:
+  • 2000 sheets of A5 colored paper
+
+Order Total: $520.00
+Requested Delivery Deadline: 2025-04-15
+Restock Arrival (latest): 2025-04-14
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+9,2025-04-07,city hall clerk,reception,45398.774999999994,4655.049999999999,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 100 sheets of A3 glossy paper — fulfilled 100 units of Glossy paper via restock arriving 2025-04-08. Subtotal: $20.00
+  • 50 packets of 100% recycled kraft paper envelopes — fulfilled 50 units of Kraft paper from existing stock. Subtotal: $5.00
+
+The following items could not be fulfilled at this time:
+  • 200 sheets of A4 white printer paper — 200 units of A4 paper are currently unavailable and could not be restocked in time.
+
+Order Total: $25.00
+Requested Delivery Deadline: 2025-04-10
+Restock Arrival (latest): 2025-04-08
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+10,2025-04-08,school principal,gathering,45418.774999999994,4655.049999999999,"Dear Customer,
+
+Thank you for reaching out to Munder Difflin Paper Co. Unfortunately we were unable to fulfil any of the requested items. Please see the details below:
+
+  • 500 sheets of A4 printing paper — 500 units of A4 paper are currently unavailable and could not be restocked in time.
+  • 200 sheets of cardstock — 200 units of Cardstock are currently unavailable and could not be restocked in time.
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+11,2025-04-08,city hall clerk,party,45418.774999999994,4655.049999999999,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 200 sheets of colorful cardstock — fulfilled 200 units of Cardstock via restock arriving 2025-04-12. Subtotal: $30.00
+  • 500 sheets of standard printer paper — fulfilled 500 units of Standard copy paper via restock arriving 2025-04-12. Subtotal: $20.00
+  • 100 paper napkins — fulfilled 100 units of Paper napkins via restock arriving 2025-04-09. Subtotal: $2.00
+
+Order Total: $52.00
+Requested Delivery Deadline: 2025-04-15
+Restock Arrival (latest): 2025-04-12
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+12,2025-04-08,business owner,show,45418.774999999994,4655.049999999999,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 500 sheets of high-quality glossy paper — fulfilled 500 units of Glossy paper via restock arriving 2025-04-12. Subtotal: $100.00
+  • 300 sheets of sturdy cardstock — fulfilled 300 units of Cardstock via restock arriving 2025-04-12. Subtotal: $45.00
+
+Order Total: $145.00
+Requested Delivery Deadline: 2025-04-15
+Restock Arrival (latest): 2025-04-12
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+13,2025-04-08,event manager,exhibition,45418.774999999994,4655.049999999999,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 500 sheets of A3 glossy paper — fulfilled 500 units of Glossy paper via restock arriving 2025-04-12. Subtotal: $100.00
+  • 300 sheets of A4 matte paper — fulfilled 300 units of Matte paper via restock arriving 2025-04-12. Subtotal: $54.00
+
+Order Total: $154.00
+Requested Delivery Deadline: 2025-04-15
+Restock Arrival (latest): 2025-04-12
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+14,2025-04-09,city hall clerk,performance,45468.524999999994,4655.049999999999,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 500 sheets of cardstock — fulfilled 500 units of Cardstock via restock arriving 2025-04-13. Subtotal: $75.00
+
+The following items could not be fulfilled at this time:
+  • 5000 sheets of A4 paper — 5000 units of A4 paper are currently unavailable and could not be restocked in time.
+  • 2000 sheets of poster paper in various colors — 2000 units of Poster paper are currently unavailable and could not be restocked in time.
+
+Order Total: $75.00
+Requested Delivery Deadline: 2025-04-15
+Restock Arrival (latest): 2025-04-13
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+15,2025-04-12,event manager,demonstration,46172.965,4636.25,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 5,000 sheets of A3 colored paper (assorted colors) — partially fulfilled: 188 of 5000 units of Colored paper from existing stock. The remaining 4812 units could not be sourced before your delivery deadline. Subtotal: $17.39 — competitive pricing applied (you save $1.41)
+
+The following items could not be fulfilled at this time:
+  • 10,000 sheets of A4 white paper — 10000 units of A4 paper are currently unavailable and could not be restocked in time.
+
+We could not match the following items to our product catalog. Please contact us if you believe this is an error:
+  • 500 reams of cardboard for signage
+
+Order Total: $17.39
+Total Savings: $1.41 (7.5% off catalog price)
+Requested Delivery Deadline: 2025-04-15
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+16,2025-04-13,school teacher,assembly,46305.465,4536.25,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 100 sheets of poster board — fulfilled 100 units of Large poster paper (24x36 inches) from existing stock. Subtotal: $95.00 — 5% bulk discount applied (you save $5.00)
+
+The following items could not be fulfilled at this time:
+  • 500 sheets of A4 printer paper — 500 units of A4 paper are currently unavailable and could not be restocked in time.
+  • 200 sheets of colorful construction paper — 200 units of Colored paper are currently unavailable and could not be restocked in time.
+
+Order Total: $95.00
+Total Savings: $5.00 (5.0% off catalog price)
+Requested Delivery Deadline: 2025-04-15
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+17,2025-04-14,restaurant manager,reception,46470.465,4486.25,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 500 paper plates (biodegradable) — fulfilled 500 units of Paper plates from existing stock. Subtotal: $45.00 — 10% bulk discount applied (you save $5.00)
+
+The following items could not be fulfilled at this time:
+  • 1000 sheets of A4 white printer paper — 1000 units of A4 paper are currently unavailable and could not be restocked in time.
+  • 500 sheets of A3 colored paper (assorted colors) — 500 units of Colored paper are currently unavailable and could not be restocked in time.
+  • 2000 table napkins (white) — 2000 units of Paper napkins are currently unavailable and could not be restocked in time.
+  • 1000 paper cups (biodegradable) — 1000 units of Paper cups are currently unavailable and could not be restocked in time.
+
+Order Total: $45.00
+Total Savings: $5.00 (10.0% off catalog price)
+Requested Delivery Deadline: 2025-04-15
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+18,2025-04-14,office manager,ceremony,46470.465,4486.25,"Dear Customer,
+
+Thank you for reaching out to Munder Difflin Paper Co. Unfortunately we were unable to fulfil any of the requested items. Please see the details below:
+
+
+We could not match the following items to our product catalog. Please contact us if you believe this is an error:
+  • 500 sheets of high-quality white cardstock
+  • 1000 sheets of standard printing paper
+  • 200 sheets of colored paper in assorted colors
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+19,2025-04-15,city hall clerk,exhibition,46470.465,4486.25,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 1000 sheets of cardstock in assorted colors — fulfilled 1000 units of Cardstock via restock arriving 2025-04-19. Subtotal: $150.00
+
+The following items could not be fulfilled at this time:
+  • 2000 sheets of A4 glossy paper — 2000 units of Glossy paper are currently unavailable and could not be restocked in time.
+  • 1500 sheets of A3 matte paper — 1500 units of Matte paper are currently unavailable and could not be restocked in time.
+
+Order Total: $150.00
+Requested Delivery Deadline: 2025-04-20
+Restock Arrival (latest): 2025-04-19
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
+20,2025-04-17,restaurant manager,concert,46470.465,4486.25,"Dear Customer,
+
+Thank you for your order with Munder Difflin Paper Co. Here is the status of your requested items:
+
+  • 5,000 flyers — fulfilled 5000 units of Flyers via restock arriving 2025-04-24. Subtotal: $750.00
+  • 2,000 posters — fulfilled 2000 units of Poster paper via restock arriving 2025-04-24. Subtotal: $500.00
+
+We could not match the following items to our product catalog. Please contact us if you believe this is an error:
+  • 10,000 tickets
+
+Order Total: $1250.00
+Requested Delivery Deadline: 2025-05-15
+Restock Arrival (latest): 2025-04-24
+
+Thank you for choosing Munder Difflin Paper Co.
+
+Best regards,
+Munder Difflin Sales Team"
